@@ -1,0 +1,46 @@
+1: CHANDAN KUMAR (1KS18CS016)
+2: GUNAL BINANI (1KS18CS025)
+3: BHAGWAT GOUTAM (1KS18CS010)
+
+
+______________________________________________________________
+
+Example : Enter the size of heap:
+		9
+	Enter the heap character:
+	computer
+	Array after max heapification is:
+
+        u       t       p       r       o       m       e
+	Enter the new character to be inserted into the heap:
+	science
+	Array after inserting new character in the heap is:
+■
+        u     t     r      o       p       m       e       c
+
+______________________________________________________________
+
+Chandan Kumar - Came up with the idea of max heap and heap sort
+		and coded the programe 
+
+Bhagwat Goutam - Helped in debugging the errors in the
+		 code and also given the idea of heap. 
+
+Gunal Binani - Also helped in debugging and checked the 
+	       input and output of the program by using 
+	       testcases.
+
+______________________________________________________________
+
+Challenges faced: 
+		were mainly how to deal with insertion character 
+since we were knowing only how to deal with numbers in the heap as
+well as in binary tree. And also insertion of new character into heap. 
+
+How we overcame those challenges:
+				 going through n number of times
+with the code, finally we analayized that we wear missing 1 for loop.
+and also took the help of youtube videos.
+_________________________________________________________________
+
+	 
